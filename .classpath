@@ -3,6 +3,7 @@
   <classpathentry output="target\scala-2.9.2\classes" path="src\main\java" kind="src"></classpathentry>
   <classpathentry output="target\scala-2.9.2\test-classes" path="src\test\scala" kind="src"></classpathentry>
   <classpathentry output="target\scala-2.9.2\test-classes" path="src\test\java" kind="src"></classpathentry>
+  <classpathentry path="./lib\jsoup-1.6.3.jar" kind="lib"></classpathentry>
   <classpathentry path="./lib\tagsoup-1.2.1.jar" kind="lib"></classpathentry>
   <classpathentry path="org.scala-ide.sdt.launching.SCALA_CONTAINER" kind="con"></classpathentry>
   <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
